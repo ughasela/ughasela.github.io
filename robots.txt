@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ughasela.github.io/sitemap.html.gz
+Sitemap: https://ughasela.github.io/app/sitemap.html.gz
+Sitemap: https://ughasela.github.io/assets/sitemap.html.gz
+Sitemap: https://ughasela.github.io/css/sitemap.html.gz
+Sitemap: https://ughasela.github.io/includes/sitemap.html.gz
+Sitemap: https://ughasela.github.io/item/sitemap.html.gz
+Sitemap: https://ughasela.github.io/src/sitemap.html.gz
